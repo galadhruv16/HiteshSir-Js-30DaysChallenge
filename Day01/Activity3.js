@@ -11,7 +11,7 @@ console.log(typeof string);
 const boolean = true;
 console.log(typeof boolean);
 
-let object = {name: "John", age: 25};
+let object = { name: "John", age: 25 };
 console.log(typeof object);
 
 let array = [1, 2, 3, 4, 5];

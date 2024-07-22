@@ -1,9 +1,7 @@
 // # Activity 4 : Logical operators
-// - Task 11: WAP that uses the && operator to combine 2 conditions and log the result  
-// - Task 12: WAP that uses the || operator to combine 2 conditions and log the result  
-// - Task 13: WAP that uses the ! operator to negate a condition and log the result 
-
-
+// - Task 11: WAP that uses the && operator to combine 2 conditions and log the result
+// - Task 12: WAP that uses the || operator to combine 2 conditions and log the result
+// - Task 13: WAP that uses the ! operator to negate a condition and log the result
 
 //Task 11
 let num5 = 10;
